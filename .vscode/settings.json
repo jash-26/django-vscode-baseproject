@@ -1,0 +1,18 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "python.testing.unittestEnabled": true,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".vscode": true,
+        "**/__pycache__": true,
+        "**/migrations": true,
+        "venv": true,
+        "**/__init__.py": true,
+        "pytest.ini": true,
+        ".gitignore": true
+    }
+}
