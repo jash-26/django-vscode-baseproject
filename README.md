@@ -30,7 +30,7 @@ This is a django baseproject with settings for vscode already included.
 
 ## Cloning this baseproject
 
-To clone this baseproject, do the following: 
+#### To clone this baseproject, do the following: 
 
 Create the project directory using the terminal
 ```
