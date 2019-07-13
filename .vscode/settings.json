@@ -13,6 +13,9 @@
         "venv": true,
         "**/__init__.py": true,
         "pytest.ini": true,
-        ".gitignore": true
+        ".gitignore": true,
+        "requirements.txt": true,
+        "manage.py": true,
+        "db.sqlite3": true
     }
 }
