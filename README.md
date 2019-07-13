@@ -28,3 +28,43 @@ This is a django baseproject with settings for vscode already included.
 
 ### Enables unitest
 
+## Cloning this baseproject
+
+To clone this baseproject, do the following: 
+
+Create the project directory using the terminal
+```
+mkdir ProjectName
+cd ProjectName
+```
+Clone this repo
+``` 
+git clone https://github.com/jash-26/django-vscode-baseproject .
+```
+create venv 
+```
+python -m venv venv
+```
+
+Django development environment is now ready, you can run: 
+```
+./manage.py runserver
+```
+
+Virtual environment will be activated once you open a python file
+
+Full command
+
+```
+mkdir ProjectName
+cd ProjectName
+git clone https://github.com/jash-26/django-vscode-baseproject .
+python -m venv venv
+./manage.py runserver
+```
+
+
+
+
+
+
