@@ -2,7 +2,7 @@
     "python.pythonPath": "venv/bin/python",
     "python.testing.unittestEnabled": true,
     "files.exclude": {
-        "**/.git": false,
+        "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
         "**/CVS": true,
