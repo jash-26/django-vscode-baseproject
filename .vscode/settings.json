@@ -16,6 +16,7 @@
         ".gitignore": true,
         "requirements.txt": true,
         "manage.py": true,
-        "db.sqlite3": true
+        "db.sqlite3": true,
+        "readme.md": true
     }
 }
