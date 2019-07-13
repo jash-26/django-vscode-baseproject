@@ -41,9 +41,10 @@ Clone this repo
 ``` 
 git clone https://github.com/jash-26/django-vscode-baseproject .
 ```
-create venv 
+Create venv with pip files
 ```
 python -m venv venv
+pip install -r requirements.txt
 ```
 
 Django development environment is now ready, you can run: 
@@ -51,15 +52,15 @@ Django development environment is now ready, you can run:
 ./manage.py runserver
 ```
 
-Virtual environment will be activated once you open a python file
+Virtual environment will be activated once you open a python file.
 
-Full command
-
+### Full command
 ```
 mkdir ProjectName
 cd ProjectName
 git clone https://github.com/jash-26/django-vscode-baseproject .
 python -m venv venv
+pip install -r requirements.txt
 ./manage.py runserver
 ```
 
